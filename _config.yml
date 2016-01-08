@@ -2,6 +2,7 @@ name: elp3rr0
 favicon: null
 layout_spectrum: 0.7404467579908669
 typography_spectrum: 0.09209757577627897
+title: this is the title
 cta:
   domain: null
   bucket: null
