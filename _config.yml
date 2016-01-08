@@ -1,7 +1,7 @@
 name: elp3rr0
 favicon: null
-layout_spectrum: 0.7404467579908669
-typography_spectrum: 0.09209757577627897
+layout_spectrum: 0.24169
+typography_spectrum: 0.38258
 title: this is the title
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9084087293595076
+  brandStrength: 0.5
   lightness: 0.24608947499655187
-  saturation: 0.8455625558272004
+  saturation: 0.5
   rhythmicContrast: 0.8135736116673797
 purpose: []
